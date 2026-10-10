@@ -5,8 +5,6 @@ aliases: [CARINA Mock Lights MOC, Master Documentation Hub, Documentation Index,
 
 <div align="center">
 
-<img src="assets/carina-logo.png" alt="CARINA MOCK LIGHTS Logo" width="120" />
-
 # CARINA Mock Lights Technical Master Documentation Hub
 ### Central Index & Simulator Architecture Knowledge Vault
 *Noxfort Systems — A State Of Art Company*

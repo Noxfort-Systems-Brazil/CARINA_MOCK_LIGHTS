@@ -29,8 +29,8 @@ validation:
 theme:
   name: material
   language: en
-  logo: assets/carina-logo.png
-  favicon: assets/carina-logo.png
+  logo: assets/noxfort-logo.png
+  favicon: assets/noxfort-logo.png
   palette:
     - media: "(prefers-color-scheme: dark)"
       scheme: slate

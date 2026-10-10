@@ -5,8 +5,6 @@ aliases: [CARINA Mock Lights, Root]
 
 <div align="center">
 
-<img src="docs/assets/carina-logo.png" alt="CARINA MOCK LIGHTS Logo" width="130" />
-
 # CARINA MOCK LIGHTS
 ### High-Fidelity Traffic Light Hardware Simulator & UTMC2/SNMP Responder
 *Noxfort Systems — A State Of Art Company*

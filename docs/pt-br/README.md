@@ -5,8 +5,6 @@ aliases: [Central de Documentação, Visão Geral PT-BR]
 
 <div align="center">
 
-<img src="../assets/carina-logo.png" alt="Logo CARINA MOCK LIGHTS" width="130" />
-
 # CARINA MOCK LIGHTS
 ### Simulador de Semáforos e Servidor de Resposta UTMC2/SNMP em Alta Fidelidade
 *Noxfort Systems — A State Of Art Company*

@@ -5,8 +5,6 @@ aliases: [Master MOC PT-BR, Índice Geral, Mapa do Código]
 
 <div align="center">
 
-<img src="../assets/carina-logo.png" alt="Logo CARINA MOCK LIGHTS" width="120" />
-
 # CARINA Mock Lights — Central Mestre de Documentação
 ### Índice Central e Base de Conhecimento do Simulador
 *Noxfort Systems — A State Of Art Company*

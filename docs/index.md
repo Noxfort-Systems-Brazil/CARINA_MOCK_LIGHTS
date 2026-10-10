@@ -5,8 +5,6 @@ aliases: [Documentation Index, Overview, Portal]
 
 <div align="center">
 
-<img src="assets/carina-logo.png" alt="CARINA MOCK LIGHTS Logo" width="120" />
-
 # CARINA Mock Lights Documentation Hub
 ### Technical Master Portal & Architecture Index
 *Noxfort Systems — A State Of Art Company*
