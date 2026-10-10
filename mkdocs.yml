@@ -1,0 +1,140 @@
+# ==============================================================================
+# CARINA Mock Lights — MkDocs Configuration (Material for MkDocs)
+# SUMO Traffic Light Simulator & UTMC2/SNMP Responder Engine
+# Copyright (C) 2026 — Noxfort Systems
+# ==============================================================================
+
+site_name: "CARINA Mock Lights — Technical Documentation"
+site_description: "Technical documentation for CARINA Mock Lights — SUMO Traffic Light Simulation, UTMC2/SNMP Server and React/Electron UI."
+site_author: "Gabriel Moraes — Noxfort Systems"
+copyright: "Copyright &copy; 2026 — Noxfort Systems"
+
+# Exclude conflicting GitHub folder readme from MkDocs build
+exclude_docs: |
+  /README.md
+
+validation:
+  omitted_files: ignore
+  absolute_links: ignore
+  unrecognized_links: ignore
+  links:
+    not_found: ignore
+    absolute_links: ignore
+    unrecognized_links: ignore
+    anchors: ignore
+
+# ==============================================================================
+# Theme
+# ==============================================================================
+theme:
+  name: material
+  language: en
+  logo: assets/carina-logo.png
+  favicon: assets/carina-logo.png
+  palette:
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep purple
+      accent: amber
+      toggle:
+        icon: material/weather-sunny
+        name: Light Mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: deep purple
+      accent: amber
+      toggle:
+        icon: material/weather-night
+        name: Dark Mode
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.top
+    - navigation.path
+    - navigation.instant
+    - navigation.tracking
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - content.code.annotate
+    - content.tabs.link
+
+# ==============================================================================
+# Markdown Extensions
+# ==============================================================================
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+      toc_depth: 3
+
+# ==============================================================================
+# Plugins
+# ==============================================================================
+plugins:
+  - search
+
+extra_css:
+  - stylesheets/extra.css
+
+# ==============================================================================
+# Navigation
+# ==============================================================================
+nav:
+  - Overview: index.md
+  - Master MOC: CARINA_MOC.md
+  - Architecture & Core:
+    - System Architecture: ARCHITECTURE.md
+    - API & Protocol Reference: API_REFERENCE.md
+  - Protocols & Hardware:
+    - Hardware Simulation: HARDWARE_SIMULATION.md
+    - Fault Injection Engine: FAULT_INJECTION_ENGINE.md
+    - SUMO Network Integration: SUMO_INTEGRATION.md
+  - Frontend & Tooling:
+    - UI & Electron Dashboard: UI_AND_DASHBOARD.md
+  - Operations & QA:
+    - Developer Guides: DEVELOPER_GUIDES.md
+    - Testing & Validation: TESTING.md
+    - Deployment & Packaging: DEPLOYMENT_AND_PACKAGING.md
+  - Multi-Language Hubs:
+    - 🇺🇸 English:
+      - Hub: en/README.md
+      - Master MOC: en/carina_moc.md
+      - System Architecture: en/architecture.md
+      - API & Protocol Reference: en/api_reference.md
+      - Hardware Simulation: en/hardware_simulation.md
+      - Fault Injection Engine: en/fault_injection_engine.md
+      - SUMO Integration: en/sumo_integration.md
+      - UI & Dashboard: en/ui_and_dashboard.md
+      - Developer Guides: en/developer_guides.md
+      - Testing & QA: en/testing.md
+      - Deployment & Packaging: en/deployment_and_packaging.md
+    - 🇧🇷 Português (Brasil):
+      - Central: pt-br/README.md
+      - Master MOC: pt-br/carina_moc.md
+      - Arquitetura do Sistema: pt-br/architecture.md
+      - Referência de API e Protocolos: pt-br/api_reference.md
+      - Simulação de Hardware: pt-br/hardware_simulation.md
+      - Motor de Injeção de Falhas: pt-br/fault_injection_engine.md
+      - Integração com SUMO: pt-br/sumo_integration.md
+      - Interface & Dashboard: pt-br/ui_and_dashboard.md
+      - Guia do Desenvolvedor: pt-br/developer_guides.md
+      - Testes & Validação: pt-br/testing.md
+      - Empacotamento & Distribuição: pt-br/deployment_and_packaging.md

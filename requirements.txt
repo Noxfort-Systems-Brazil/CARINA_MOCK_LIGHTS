@@ -1,0 +1,6 @@
+pysnmp>=4.4.12
+pytest>=7.0.0
+fastapi
+uvicorn
+websockets
+python-multipart

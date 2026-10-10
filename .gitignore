@@ -1,0 +1,104 @@
+# ==============================================================================
+# CARINA MOCK LIGHTS - .gitignore
+# Multi-stack: Python (FastAPI/PySNMP) + Node.js (React 19/Electron) + MkDocs
+# ==============================================================================
+
+# --- Python & Bytecode ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+pip-log.txt
+pip-delete-this-directory.txt
+
+# --- Virtual Environments ---
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# --- Testing, Coverage & Linters ---
+.pytest_cache/
+.coverage
+.coverage.*
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+htmlcov/
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.ruff_cache/
+
+# --- Node.js & Electron UI ---
+node_modules/
+ui/node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+ui/dist/
+ui/dist-ssr/
+ui/out/
+ui/release/
+dist/
+dist-ssr/
+out/
+release/
+.eslintcache
+*.tsbuildinfo
+
+# --- Simulation, Server & Application Logs ---
+*.log
+logs/
+colors.log
+connections.log
+
+# --- MkDocs Documentation Build ---
+site/
+
+# --- Environment & Secrets ---
+.env
+.env.*
+!.env.example
+
+# --- IDEs & Code Editors ---
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+*~
+*.bak
+
+# --- Operating System Files ---
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+ehthumbs.db
+[Dd]esktop.ini
