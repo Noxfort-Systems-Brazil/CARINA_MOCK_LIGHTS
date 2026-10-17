@@ -15,7 +15,7 @@
 #
 # File: core/traffic_light.py
 # Author: Gabriel Moraes
-# Date: 2026-10-10
+# Date: October 2026
 
 from enum import Enum, auto
 from typing import List, Protocol

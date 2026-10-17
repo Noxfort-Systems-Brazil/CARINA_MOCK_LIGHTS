@@ -15,7 +15,7 @@
 #
 # File: server/utmc_handlers.py
 # Author: Gabriel Moraes
-# Date: 2026-10-10
+# Date: October 2026
 
 from typing import List, Callable, Dict
 from core.traffic_light import TrafficLight, LightState

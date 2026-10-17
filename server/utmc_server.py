@@ -15,7 +15,7 @@
 #
 # File: server/utmc_server.py
 # Author: Gabriel Moraes
-# Date: 2026-10-10
+# Date: October 2026
 
 import threading
 import asyncio

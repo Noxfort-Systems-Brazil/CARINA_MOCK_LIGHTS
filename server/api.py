@@ -15,7 +15,7 @@
 #
 # File: server/api.py
 # Author: Gabriel Moraes
-# Date: 2026-10-10
+# Date: October 2026
 
 import sys
 import os

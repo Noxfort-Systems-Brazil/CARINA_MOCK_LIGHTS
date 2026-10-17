@@ -16,7 +16,7 @@
  *
  * File: ui/electron.cjs
  * Author: Gabriel Moraes
- * Date: 2026-10-10
+ * Date: October 2026
  */
 
 const { app, BrowserWindow, ipcMain, dialog } = require('electron');

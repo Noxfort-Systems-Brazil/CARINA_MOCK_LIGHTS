@@ -15,7 +15,7 @@
 #
 # File: server/utmc_utils.py
 # Author: Gabriel Moraes
-# Date: 2026-10-10
+# Date: October 2026
 
 import socket
 
