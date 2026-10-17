@@ -2,6 +2,11 @@
 tags: [api, reference, rest, websocket, snmp, utmc2, en]
 aliases: [API Reference EN, Endpoints EN, OID Table EN]
 ---
+<!--
+SPDX-FileCopyrightText: 2026 Noxfort Systems
+SPDX-License-Identifier: Apache-2.0
+-->
+
 
 # ⚡ API & Protocol Reference
 
@@ -70,5 +75,5 @@ This document provides the complete technical specification for all communicatio
   <img src="../assets/noxfort-logo.png" alt="Noxfort Systems Logo" width="45" /><br/>
   <b>Noxfort Systems</b> — <i>A State Of Art Company</i><br/>
   <i>Controlled Artificial Road-traffic Intelligence Network Architecture • CARINA MOCK LIGHTS v1.1.0</i><br/>
-  <small>© 2026 Noxfort Systems. Licensed under Apache 2.0.</small>
+  <small>© 2026 Noxfort Systems • SPDX-License-Identifier: Apache-2.0</small>
 </div>

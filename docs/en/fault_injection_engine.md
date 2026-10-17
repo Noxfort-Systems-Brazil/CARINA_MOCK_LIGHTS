@@ -2,6 +2,11 @@
 tags: [fault, injection, traps, snmp, errors, en]
 aliases: [Fault Injection Engine EN, SNMP Traps EN]
 ---
+<!--
+SPDX-FileCopyrightText: 2026 Noxfort Systems
+SPDX-License-Identifier: Apache-2.0
+-->
+
 
 # ⚠️ Fault Injection Engine & Incident Traps
 
@@ -41,5 +46,5 @@ SNMPv2c-Trap datagrams are constructed natively without external dependencies:
   <img src="../assets/noxfort-logo.png" alt="Noxfort Systems Logo" width="45" /><br/>
   <b>Noxfort Systems</b> — <i>A State Of Art Company</i><br/>
   <i>Controlled Artificial Road-traffic Intelligence Network Architecture • CARINA MOCK LIGHTS v1.1.0</i><br/>
-  <small>© 2026 Noxfort Systems. Licensed under Apache 2.0.</small>
+  <small>© 2026 Noxfort Systems • SPDX-License-Identifier: Apache-2.0</small>
 </div>

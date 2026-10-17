@@ -1,3 +1,8 @@
+<!--
+SPDX-FileCopyrightText: 2026 Noxfort Systems
+SPDX-License-Identifier: Apache-2.0
+-->
+
 # Contributing to CARINA Mock Lights
 
 Thank you for considering contributing to **CARINA Mock Lights**! Your contributions help build a reliable, authentic hardware testing sandbox for adaptive traffic light networks.

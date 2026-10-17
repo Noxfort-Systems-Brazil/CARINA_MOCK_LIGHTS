@@ -2,6 +2,11 @@
 tags: [hardware, simulation, controllers, presets, en]
 aliases: [Hardware Simulation EN, Controller Presets EN]
 ---
+<!--
+SPDX-FileCopyrightText: 2026 Noxfort Systems
+SPDX-License-Identifier: Apache-2.0
+-->
+
 
 # 🚦 Hardware Simulation & Controller Presets
 
@@ -48,5 +53,5 @@ Incoming SNMP packets are checked against trusted private CIDR ranges (`10.0.0.0
   <img src="../assets/noxfort-logo.png" alt="Noxfort Systems Logo" width="45" /><br/>
   <b>Noxfort Systems</b> — <i>A State Of Art Company</i><br/>
   <i>Controlled Artificial Road-traffic Intelligence Network Architecture • CARINA MOCK LIGHTS v1.1.0</i><br/>
-  <small>© 2026 Noxfort Systems. Licensed under Apache 2.0.</small>
+  <small>© 2026 Noxfort Systems • SPDX-License-Identifier: Apache-2.0</small>
 </div>

@@ -2,6 +2,11 @@
 tags: [readme, home, carina, mock, en]
 aliases: [English Documentation Hub, Overview EN]
 ---
+<!--
+SPDX-FileCopyrightText: 2026 Noxfort Systems
+SPDX-License-Identifier: Apache-2.0
+-->
+
 
 <div align="center">
 
@@ -14,7 +19,7 @@ aliases: [English Documentation Hub, Overview EN]
 [![Node.js](https://img.shields.io/badge/Node.js-20%2B-339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![React](https://img.shields.io/badge/React-19.2%2B-61DAFB?style=flat&logo=react&logoColor=black)](https://react.dev/)
 [![Electron](https://img.shields.io/badge/Electron-42.0%2B-47848F?style=flat&logo=electron&logoColor=white)](https://electronjs.org/)
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue?style=flat)](../../LICENSE)
+[![SPDX License](https://img.shields.io/badge/SPDX--License--Identifier-Apache--2.0-blue?style=flat)](../../LICENSE)
 
 ---
 
@@ -49,5 +54,5 @@ aliases: [English Documentation Hub, Overview EN]
   <img src="../assets/noxfort-logo.png" alt="Noxfort Systems Logo" width="45" /><br/>
   <b>Noxfort Systems</b> — <i>A State Of Art Company</i><br/>
   <i>Controlled Artificial Road-traffic Intelligence Network Architecture • CARINA MOCK LIGHTS v1.1.0</i><br/>
-  <small>© 2026 Noxfort Systems. Licensed under Apache 2.0.</small>
+  <small>© 2026 Noxfort Systems • SPDX-License-Identifier: Apache-2.0</small>
 </div>

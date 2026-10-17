@@ -1,13 +1,14 @@
 # ==============================================================================
 # CARINA Mock Lights — MkDocs Configuration (Material for MkDocs)
 # SUMO Traffic Light Simulator & UTMC2/SNMP Responder Engine
-# Copyright (C) 2026 — Noxfort Systems
+# SPDX-FileCopyrightText: 2026 Noxfort Systems
+# SPDX-License-Identifier: Apache-2.0
 # ==============================================================================
 
 site_name: "CARINA Mock Lights — Technical Documentation"
 site_description: "Technical documentation for CARINA Mock Lights — SUMO Traffic Light Simulation, UTMC2/SNMP Server and React/Electron UI."
 site_author: "Gabriel Moraes — Noxfort Systems"
-copyright: "Copyright &copy; 2026 — Noxfort Systems"
+copyright: "Copyright &copy; 2026 Noxfort Systems &bull; SPDX-License-Identifier: Apache-2.0"
 
 # Exclude conflicting GitHub folder readme from MkDocs build
 exclude_docs: |

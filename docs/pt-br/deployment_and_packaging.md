@@ -2,6 +2,11 @@
 tags: [deployment, packaging, electron-builder, pt-br]
 aliases: [Empacotamento e Implantação PT-BR, Deploy]
 ---
+<!--
+SPDX-FileCopyrightText: 2026 Noxfort Systems
+SPDX-License-Identifier: Apache-2.0
+-->
+
 
 # 🚀 Empacotamento e Implantação
 
@@ -51,5 +56,5 @@ WantedBy=multi-user.target
   <img src="../assets/noxfort-logo.png" alt="Logo Noxfort Systems" width="45" /><br/>
   <b>Noxfort Systems</b> — <i>A State Of Art Company</i><br/>
   <i>Controlled Artificial Road-traffic Intelligence Network Architecture • CARINA MOCK LIGHTS v1.1.0</i><br/>
-  <small>© 2026 Noxfort Systems. Licenciado sob Apache 2.0.</small>
+  <small>© 2026 Noxfort Systems • Licenciado sob Apache-2.0 • SPDX-License-Identifier: Apache-2.0</small>
 </div>

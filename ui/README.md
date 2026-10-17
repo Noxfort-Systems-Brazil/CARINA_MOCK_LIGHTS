@@ -1,3 +1,8 @@
+<!--
+SPDX-FileCopyrightText: 2026 Noxfort Systems
+SPDX-License-Identifier: Apache-2.0
+-->
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -71,3 +76,9 @@ export default defineConfig([
   },
 ])
 ```
+
+---
+
+<div align="center">
+  <small>© 2026 Noxfort Systems • SPDX-License-Identifier: Apache-2.0</small>
+</div>

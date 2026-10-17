@@ -2,6 +2,11 @@
 tags: [hardware, simulation, controllers, pt-br]
 aliases: [Simulação de Hardware PT-BR, Emulação de Controladores]
 ---
+<!--
+SPDX-FileCopyrightText: 2026 Noxfort Systems
+SPDX-License-Identifier: Apache-2.0
+-->
+
 
 # 🚦 Simulação de Hardware e Controladores Físicos
 
@@ -49,5 +54,5 @@ Apenas requisições oriundas de faixas privadas (`10.x.x.x`, `127.x.x.x`, `192.
   <img src="../assets/noxfort-logo.png" alt="Logo Noxfort Systems" width="45" /><br/>
   <b>Noxfort Systems</b> — <i>A State Of Art Company</i><br/>
   <i>Controlled Artificial Road-traffic Intelligence Network Architecture • CARINA MOCK LIGHTS v1.1.0</i><br/>
-  <small>© 2026 Noxfort Systems. Licenciado sob Apache 2.0.</small>
+  <small>© 2026 Noxfort Systems • Licenciado sob Apache-2.0 • SPDX-License-Identifier: Apache-2.0</small>
 </div>

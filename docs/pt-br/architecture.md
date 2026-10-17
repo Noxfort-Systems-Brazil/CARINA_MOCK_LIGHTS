@@ -2,6 +2,11 @@
 tags: [architecture, mock, simulator, sumo, utmc2, snmp, pt-br]
 aliases: [Arquitetura do Sistema PT-BR, Blueprint Técnico]
 ---
+<!--
+SPDX-FileCopyrightText: 2026 Noxfort Systems
+SPDX-License-Identifier: Apache-2.0
+-->
+
 
 # 🏛️ CARINA Mock Lights: Blueprint e Arquitetura do Sistema
 
@@ -73,5 +78,5 @@ Cada cruzamento recebe automaticamente o perfil de um fabricante real por hash:
   <img src="../assets/noxfort-logo.png" alt="Logo Noxfort Systems" width="45" /><br/>
   <b>Noxfort Systems</b> — <i>A State Of Art Company</i><br/>
   <i>Controlled Artificial Road-traffic Intelligence Network Architecture • CARINA MOCK LIGHTS v1.1.0</i><br/>
-  <small>© 2026 Noxfort Systems. Licenciado sob Apache 2.0.</small>
+  <small>© 2026 Noxfort Systems • Licenciado sob Apache-2.0 • SPDX-License-Identifier: Apache-2.0</small>
 </div>

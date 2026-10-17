@@ -2,6 +2,11 @@
 tags: [readme, home, carina, mock, pt-br]
 aliases: [Central de Documentação, Visão Geral PT-BR]
 ---
+<!--
+SPDX-FileCopyrightText: 2026 Noxfort Systems
+SPDX-License-Identifier: Apache-2.0
+-->
+
 
 <div align="center">
 
@@ -14,7 +19,7 @@ aliases: [Central de Documentação, Visão Geral PT-BR]
 [![Node.js](https://img.shields.io/badge/Node.js-20%2B-339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![React](https://img.shields.io/badge/React-19.2%2B-61DAFB?style=flat&logo=react&logoColor=black)](https://react.dev/)
 [![Electron](https://img.shields.io/badge/Electron-42.0%2B-47848F?style=flat&logo=electron&logoColor=white)](https://electronjs.org/)
-[![Licença](https://img.shields.io/badge/Licen%C3%A7a-Apache_2.0-blue?style=flat)](../../LICENSE)
+[![Identificador SPDX](https://img.shields.io/badge/SPDX--License--Identifier-Apache--2.0-blue?style=flat)](../../LICENSE)
 
 ---
 
@@ -49,5 +54,5 @@ O **CARINA Mock Lights** é um simulador de controladores semafóricos físicos 
   <img src="../assets/noxfort-logo.png" alt="Logo Noxfort Systems" width="45" /><br/>
   <b>Noxfort Systems</b> — <i>A State Of Art Company</i><br/>
   <i>Controlled Artificial Road-traffic Intelligence Network Architecture • CARINA MOCK LIGHTS v1.1.0</i><br/>
-  <small>© 2026 Noxfort Systems. Licenciado sob Apache 2.0.</small>
+  <small>© 2026 Noxfort Systems • Licenciado sob Apache-2.0 • SPDX-License-Identifier: Apache-2.0</small>
 </div>

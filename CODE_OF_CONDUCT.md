@@ -1,3 +1,8 @@
+<!--
+SPDX-FileCopyrightText: 2026 Noxfort Systems
+SPDX-License-Identifier: Apache-2.0
+-->
+
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge

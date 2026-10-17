@@ -2,6 +2,11 @@
 tags: [api, reference, rest, websocket, snmp, utmc2, oids]
 aliases: [API Reference, REST API, WebSocket API, SNMP OID Table]
 ---
+<!--
+SPDX-FileCopyrightText: 2026 Noxfort Systems
+SPDX-License-Identifier: Apache-2.0
+-->
+
 
 # ⚡ API & Protocol Reference
 
@@ -179,5 +184,5 @@ The PySNMP agent listens on UDP port `1610 + (port - 8080)` per intersection and
   <img src="assets/noxfort-logo.png" alt="Noxfort Systems Logo" width="45" /><br/>
   <b>Noxfort Systems</b> — <i>A State Of Art Company</i><br/>
   <i>Controlled Artificial Road-traffic Intelligence Network Architecture • CARINA MOCK LIGHTS v1.1.0</i><br/>
-  <small>© 2026 Noxfort Systems. Licensed under Apache 2.0.</small>
+  <small>© 2026 Noxfort Systems • SPDX-License-Identifier: Apache-2.0</small>
 </div>
